@@ -83,3 +83,53 @@ header .navigation li a{
     text-align: center;
     padding: 25px;
 }
+.personal-details{
+    display:flex;
+    justify-content: space-between;
+}
+.personal-first-child{
+    padding-left: 200px;
+    padding-top: 60px;
+}
+.personal-second-child{
+    padding-right: 200px;
+}
+.skills{
+    height: 120px;
+   background-color: #90EE90;
+    display:flex;
+    justify-content: space-between;
+}
+.skills-first-child{
+    padding-left:210px;
+    padding-top: 40px;
+}
+.skills-second-child{
+    padding-top: 20px;
+    padding-right: 260px;
+}
+.education{
+    display:flex;
+    justify-content: space-between;
+}
+.edu-first-child{
+    padding-left: 200px;
+    padding-top: 40px;
+}
+.edu-second-child{
+    padding-right: 280px;
+}
+.projects{
+    height: 80px;
+    background-color: #90EE90 ;
+display: flex;
+justify-content: space-between;
+}
+.pro-first-child{
+    padding-left: 200px;
+    padding-top: 15px;
+}
+.pro-second-child{
+    padding-top: 10px;
+    padding-right: 110px;
+}
